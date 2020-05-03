@@ -1,0 +1,2 @@
+This is some sample text file.
+This is some sample text, we are learning file handling.
